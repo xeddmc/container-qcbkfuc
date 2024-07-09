@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "xeddmc",
+  "repo": "container-qcbkfuc",
+  "name": "xeddmc",
+  "email": "xedd@riseup.net",
+}
